@@ -1,16 +1,25 @@
-## Hi there 👋
+Hello there , I'm Rishitha 👋
 
-<!--
-**Rishithachappidi/Rishithachappidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3rd-year Artificial Intelligence and Data Science student at Amrita Vishwa Vidyapeetham.
 
-Here are some ideas to get you started:
+I use GitHub to document the projects I work on through coursework, team projects, research, and learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Currently Learning
+
+* Machine Learning and Data Science
+* Computer Vision
+* Robotics and Control Systems
+* Data Engineering
+* Software Development
+
+#Tools I Work With
+
+Python • C++ • SQL • Git • GitHub • MATLAB • Simulink • ROS 2 • Arduino • Raspberry Pi
+
+#Projects
+
+My repositories include academic and team projects covering machine learning, robotics, computer vision, data engineering, and IoT.
+
+#Connect
+
+[LinkedIn](www.linkedin.com/in/rishitha-chappidi)
