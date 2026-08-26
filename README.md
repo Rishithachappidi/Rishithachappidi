@@ -1,10 +1,10 @@
-Hello there , I'm Rishitha 👋
+# Rishitha Chappidi
 
-I'm a 3rd-year Artificial Intelligence and Data Science student at Amrita Vishwa Vidyapeetham.
+Third-year **Artificial Intelligence and Data Science** student at **Amrita Vishwa Vidyapeetham**, with interests in machine learning, computer vision, robotics, data engineering, and software development.
 
-I use GitHub to document the projects I work on through coursework, team projects, research, and learning.
+This GitHub profile documents my academic work, research-oriented projects, team projects, and independent technical development.
 
-#Currently Learning
+## Areas of Interest
 
 * Machine Learning and Data Science
 * Computer Vision
@@ -12,14 +12,25 @@ I use GitHub to document the projects I work on through coursework, team project
 * Data Engineering
 * Software Development
 
-#Tools I Work With
+## Technical Skills
 
-Python • C++ • SQL • Git • GitHub • MATLAB • Simulink • ROS 2 • Arduino • Raspberry Pi
+**Programming:** Python, C++, SQL
+**Development Tools:** Git, GitHub
+**Engineering Tools:** MATLAB, Simulink, ROS 2
+**Hardware & Embedded Systems:** Arduino, Raspberry Pi
 
-#Projects
+## Projects
 
-My repositories include academic and team projects covering machine learning, robotics, computer vision, data engineering, and IoT.
+My repositories include individual and collaborative projects across:
 
-#Connect
+* Machine Learning and Artificial Intelligence
+* Computer Vision
+* Robotics and Control Systems
+* Data Engineering and Analytics
+* Internet of Things and Embedded Systems
 
-[LinkedIn](www.linkedin.com/in/rishitha-chappidi)
+Each repository includes project-specific documentation covering the problem statement, implementation, technologies used, and results where applicable.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/rishitha-chappidi)
