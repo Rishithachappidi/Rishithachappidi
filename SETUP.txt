@@ -1,0 +1,41 @@
+DARK GITHUB PROFILE — SIX DOORS
+
+1. Extract the ZIP.
+2. Open your public profile repository: Rishithachappidi/Rishithachappidi.
+   If it does not exist, create a PUBLIC repository named Rishithachappidi.
+3. Replace the existing README.md with this README.md.
+4. Upload the complete assets, pages, and resume folders at the repository root.
+5. Commit. Open https://github.com/Rishithachappidi and click a door.
+
+Upload the contents of the ZIP directly. Do not add an extra enclosing folder.
+GitHub's Add file > Upload files can accept folders dragged from your computer.
+Back up any existing README before replacing it if you want to keep that version.
+
+HOW IT WORKS ON GITHUB
+The home page contains your photo, your name, and six linked door cards.
+Each card opens its own real Markdown page within your repository.
+Each page includes navigation and a Return to my profile link.
+The résumé page links to your original PDF. Its filename is unchanged inside
+its bytes; only the packaged filename was made clear and easy to link.
+LinkedIn, GitHub, publication and email links are included.
+Email opens the visitor's configured mail application.
+
+DARK APPEARANCE
+All custom artwork is dark. GitHub controls the surrounding page and Markdown
+page colors. Set GitHub Settings > Appearance to a dark theme for a fully dark
+view on your account. Visitors retain their own theme preferences.
+
+HTML PREVIEW
+The separate Rishitha-Dark-Door-Profile.html opens locally in a browser.
+It embeds your real photo and résumé, and adds animated door transitions.
+Click a door, browse its content, and use Back to profile to return.
+The PDF can be opened or downloaded from its Résumé room.
+The animation is preview-only; GitHub uses normal page navigation.
+No hosting, portfolio setup, installation or API keys are needed.
+
+CONTENT
+Education, CGPA, internship, skills, certifications, email and publication URL
+are based on the résumé you supplied. Additional project explorations use the
+project information you previously shared. The photo and PDF are preserved.
+Specific repository names were not verified, so the project page links to your
+actual repository list rather than guessing individual project URLs.
