@@ -17,7 +17,7 @@
 </tr>
 </table>
 <p align="center"><a href="https://www.linkedin.com/in/rishitha-chappidi/">LinkedIn</a> · <a href="https://github.com/Rishithachappidi?tab=repositories">Repositories</a> · <a href="resume/Rishitha-Chappidi-Resume.pdf">Résumé PDF</a> · <a href="mailto:chappidirishithaa@gmail.com">Email</a></p>
-=======
+
 # Rishitha Chappidi
 
 Third-year **Artificial Intelligence and Data Science** student at **Amrita Vishwa Vidyapeetham**, with interests in machine learning, computer vision, robotics, data engineering, and software development.
