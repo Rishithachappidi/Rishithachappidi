@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
 <img src="assets/profile-home.png" width="100%" alt="Rishitha Chappidi — Artificial Intelligence and Data Science student at Amrita Vishwa Vidyapeetham, Coimbatore" />
 <p><b>Choose a door to explore.</b></p>
