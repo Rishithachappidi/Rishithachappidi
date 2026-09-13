@@ -30,4 +30,4 @@ This GitHub profile documents my academic work, research-oriented projects, team
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/rishitha-chappidi)
->>>>>>> 32b87610cb09df03505c4ddbb11763d51d527e45
+
